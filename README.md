@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Gif Expert App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been developed as part of the __React 0 to Expert__ course. It's important to say that this project was developed using React Hooks, functional React Components and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Made with Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+__Repository URL__: https://github.com/duquejo01/React-GifExpertApp/
+__Public Demo URL__: https://duquejo01.github.io/React-GifExpertApp/
+
+## Dependencies
+- *Animate CSS*: Used for some frontend animation changes.
 
 ## Available Scripts
 
