@@ -12,6 +12,20 @@ __Public Demo URL__: https://duquejo01.github.io/React-GifExpertApp/
 ## Dependencies
 - *Animate CSS*: Used for some frontend animation changes.
 
+### Useful code snippet for tests
+
+Create the following file with the name `jsconfig.json` inside your workspace for enable VSCode Jest snippets by default
+
+```json
+{
+  "typeAcquisition": {
+      "include": [
+          "jest"
+      ]
+  }
+}
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
