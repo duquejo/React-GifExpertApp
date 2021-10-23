@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddCategory /> tests Should render <AddCategory /> successfully 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    onChange={[Function]}
+    placeholder="Type something and press 'enter' for giphy search!"
+    type="text"
+    value=""
+  />
+</form>
+`;
